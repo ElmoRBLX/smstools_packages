@@ -17,3 +17,5 @@
   firebase_admob v0.5.2 : https://pub.dev/packages/firebase_admob
   
   slide_popup_dialog v0.0.2 : https://pub.dev/packages/slide_popup_dialog
+  
+  url_launcher v5.5.0 : https://pub.dev/packages/url_launcher#-readme-tab-
